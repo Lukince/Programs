@@ -1,0 +1,6 @@
+Click [...] Button, And Select File.
+There's two buttons.
+[Lock!] Button will lock your file.
+[Restore!] Button will restore your file.
+Lock System is base64.
+Enjoy!
