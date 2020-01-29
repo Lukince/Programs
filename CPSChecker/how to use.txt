@@ -1,0 +1,6 @@
+Click [Click to Start!] Button.
+And Click [Click!] Button as fast you can.
+Time is 10sec!
+After 10sec, CPS(Click per Second) will record right list.
+And there's average!
+If you want to clear list, Click [Clear!] Button.
